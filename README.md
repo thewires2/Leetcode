@@ -13,7 +13,7 @@ Readme
 
 
 ## Contributors 
-* [Arnav Bagchi](https://github.com/thewires2) 	:wink:
+* [Arnav Bagchi](https://github.com/thewires2) 	
 
 ## License
 
