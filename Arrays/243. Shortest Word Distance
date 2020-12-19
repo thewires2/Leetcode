@@ -1,0 +1,12 @@
+class Solution:
+    def shortestDistance(self, words: List[str], word1: str, word2: str) -> int:
+        if words.count(word1)==1 and words.count(word2)==1:
+            return abs(words.index(word1)-words.index(word2))
+        x=[i for i,j in enumerate(words) if j==word1]
+        y=[i for i,j in enumerate(words) if j==word2]
+        z=abs(x[0]-y[0])
+        for i in x:
+            for j in y:
+                z=min(z,abs(i-j))
+        return z
+                
