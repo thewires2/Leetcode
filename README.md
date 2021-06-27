@@ -1,4 +1,4 @@
-# Leetcode
+# Leetcodec
 Solution to Leetcode problemset questions in python . I will try to update this on a regular basis. 
 
 [![Updated Badge](https://badges.pufler.dev/updated/thewires2/Leetcode?color=purple)](https://badges.pufler.dev) 
