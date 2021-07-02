@@ -9,5 +9,5 @@ class Solution:
             if  c[s[i]] == 0:
                 del c[s[i]] 
             if len(d) == len(c):
-                ans+=1
+                ans=ans+1
         return ans
