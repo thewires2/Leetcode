@@ -16,6 +16,4 @@ Readme
 ## Contributors 
 * [Arnav Bagchi](https://github.com/thewires2)
 
-## License
 
-This project is licensed under the [The Unlicense](https://choosealicense.com/licenses/unlicense/#)
